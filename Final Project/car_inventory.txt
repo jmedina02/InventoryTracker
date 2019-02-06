@@ -1,0 +1,6 @@
+YEAR: 2011  |  MAKE & MODEL: Honda Accord     |  INITIAL PRICE: $14,000.00
+YEAR: 2012  |  MAKE & MODEL: Acura TL         |  INITIAL PRICE: $17,000.00
+YEAR: 2015  |  MAKE & MODEL: Mercedes Benz    |  INITIAL PRICE: $24,000.00
+YEAR: 2016  |  MAKE & MODEL: Jeep Cherokee    |  INITIAL PRICE: $27,000.00
+YEAR: 2014  |  MAKE & MODEL: Chevy Camaro     |  INITIAL PRICE: $19,000.00
+YEAR: 2013  |  MAKE & MODEL: Audi A6          |  INITIAL PRICE: $19,000.00
